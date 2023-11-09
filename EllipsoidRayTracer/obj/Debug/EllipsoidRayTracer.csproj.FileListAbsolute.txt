@@ -1,0 +1,7 @@
+C:\Users\GIGABYTE\RiderProjects\EllipsoidRayTracer\EllipsoidRayTracer\bin\Debug\EllipsoidRayTracer.exe
+C:\Users\GIGABYTE\RiderProjects\EllipsoidRayTracer\EllipsoidRayTracer\bin\Debug\EllipsoidRayTracer.pdb
+C:\Users\GIGABYTE\RiderProjects\EllipsoidRayTracer\EllipsoidRayTracer\obj\Debug\EllipsoidRayTracer.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\RiderProjects\EllipsoidRayTracer\EllipsoidRayTracer\obj\Debug\EllipsoidRayTracer.csproj.SuggestedBindingRedirects.cache
+C:\Users\GIGABYTE\RiderProjects\EllipsoidRayTracer\EllipsoidRayTracer\obj\Debug\EllipsoidRayTracer.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\RiderProjects\EllipsoidRayTracer\EllipsoidRayTracer\obj\Debug\EllipsoidRayTracer.exe
+C:\Users\GIGABYTE\RiderProjects\EllipsoidRayTracer\EllipsoidRayTracer\obj\Debug\EllipsoidRayTracer.pdb
